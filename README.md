@@ -28,3 +28,10 @@ Apply the techniques and models that you fit on the demographic data to the cust
 * Sklearn / scikit-learn
 * Matplotlib (for data visualization)
 * Seaborn (for data visualization)
+
+## Data used 
+
+Demographic data for the general population of Germany; 891211 persons (rows) x 85 features (columns).
+Demographic data for customers of a mail-order company; 191652 persons (rows) x 85 features (columns).
+The data is not provided as it is private data.
+
